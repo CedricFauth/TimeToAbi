@@ -1,9 +1,9 @@
 # TimeToAbi
 
 In klausuren.txt eine Klausur eintragen. In die nächste Zeile das Datum (Format: ##.##.####). <br />
-Danach die beiden Schritte für die restlichen Klausuren wiederholen. 
-Am Ende speichern und schließen.
-TimeToAbi.exe öffnen und fertig.
+Danach die beiden Schritte für die restlichen Klausuren wiederholen. <br />
+Am Ende speichern und schließen. <br />
+TimeToAbi.exe öffnen und fertig. <br />
 
 ## Beispiel:
 Geschichte <br />
